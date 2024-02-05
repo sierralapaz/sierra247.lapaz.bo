@@ -59,8 +59,10 @@ body {
     width: 50%;
 }
 
-.value {
-    display: inline-block;
+.value-center {
+    display: block;
+    text-align: center;
+    font-weight: bold;
 }
 
 .value-bold {
