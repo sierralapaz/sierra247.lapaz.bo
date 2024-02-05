@@ -37,14 +37,14 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    height: 2.8em; /* Ajusta el tamaño según sea necesario */
+    height: 2.5em; /* Ajusta el tamaño según sea necesario */
 }
 
 .side-image-right {
     position: absolute;
     top: 0;
     right: 0;
-    height: 2.8em; /* Ajusta el tamaño según sea necesario */
+    height: 2.5em; /* Ajusta el tamaño según sea necesario */
 }
 
 .data {
